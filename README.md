@@ -1,2 +1,13 @@
-# IntelliLearn
-IntelliLearn is a Java Swing desktop application that provides login authentication, notes management, and an interactive quiz system for learning.
+IntelliLearn - Smart Learning Desktop Application
+
+Technologies:
+Java
+Java Swing
+File Handling
+
+Features:
+Login system
+Add notes
+View and delete notes
+Quiz module
+User-friendly dashboard
